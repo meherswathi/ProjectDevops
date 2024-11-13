@@ -1,0 +1,36 @@
+[33mcommit f10d07a20915540e2328726853abfade502ece00[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 3a9b7df 9d465c4
+Author: root <root@ip-172-31-16-124.ec2.internal>
+Date:   Wed Nov 13 05:40:43 2024 +0000
+
+    Merge branch 'main' of github.com:meherswathi/ProjectDevops
+
+[33mcommit 3a9b7df0921233edd567c4e56e52bb51e6695aea[m
+Author: root <root@ip-172-31-16-124.ec2.internal>
+Date:   Wed Nov 13 05:40:23 2024 +0000
+
+    file7 created
+
+[33mcommit 9d465c44b9c7735a274025f955c43e5b08edf5c9[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: meherswathi <144318821+meherswathi@users.noreply.github.com>
+Date:   Wed Nov 13 11:09:51 2024 +0530
+
+    Create file6
+
+[33mcommit 7d0d4025ebf299bd723380f4834df28795f2a3de[m
+Author: root <root@ip-172-31-16-124.ec2.internal>
+Date:   Wed Nov 13 05:37:50 2024 +0000
+
+    file4 created
+
+[33mcommit e3c16747e6a685854ba90b3c4629a306b220d561[m
+Author: meherswathi <144318821+meherswathi@users.noreply.github.com>
+Date:   Wed Nov 13 11:07:00 2024 +0530
+
+    Create File3
+
+[33mcommit 63d9257705d40d3c7a8006c8263ff92a902c272c[m
+Author: root <root@ip-172-31-16-124.ec2.internal>
+Date:   Wed Nov 13 05:33:33 2024 +0000
+
+    files created
